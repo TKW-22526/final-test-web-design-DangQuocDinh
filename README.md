@@ -175,10 +175,10 @@ Sinh viên cần nộp đầy đủ các nội dung sau:
 Sinh viên cập nhật thông tin cá nhân tại đây:
 
 ```text
-Họ và tên:
-Mã số sinh viên:
-Lớp:
-Tên đề tài:
+Họ và tên:  Đặng Quốc Định
+Mã số sinh viên: 110124034
+Lớp: DA24TTA
+Tên đề tài: Danh mục xe Hybrid
 Liên kết GitHub repository:
 Liên kết GitHub Pages:
 ```
