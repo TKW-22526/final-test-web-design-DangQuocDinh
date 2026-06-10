@@ -141,7 +141,7 @@ https://<ten-tai-khoan-github>.github.io/<ten-repository>/
 Ví dụ:
 
 ```text
-https://nguyenvana.github.io/final-project/
+https://github.com/TKW-22526/final-test-web-design-DangQuocDinh.git
 ```
 
 ## 5. Nộp bài trên hệ thống LMS
